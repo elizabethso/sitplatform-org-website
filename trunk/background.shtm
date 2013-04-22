@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Standards I&amp;T Platform - Background</title>
+<!--#include virtual="header.htm" -->
+</head>
+
+<body>
+<div class="container">
+<div class="header">
+<div class="navglobal">
+<ul>
+</ul>
+</div>
+<div class="banner"> <a href="http://www.sitplatform.org/index.shtm"><img src="/images/SITPlatform_logo.png" alt="Standards I&amp;T Platform" id="SITPlatform_logo" height="45" width="736" /></a>
+</div>
+</div>
+<!-- end .header -->
+<div class="banner_main"></div>
+<!-- begin .middle -->
+<div class="middle"><!-- begin .content .int -->
+<div class="leftColumn sidepadding5">
+<div class="int">
+<h3><a href="index.shtm" class="red">Home</a></h3>
+<br />
+<h3>Background</h3><br />
+<h3><a href="mailto:admin@sitplatform.org" class="red">Contact Us</a><br />
+</h3>
+</div>
+</div>
+<div class="content int">
+<h1>What’s the purpose of the Standards Implementation and Testing (I&amp;T) Platform? </h1>
+<br />
+<p>The purpose of the Standards I&amp;T Platform is to direct developers of Health Information Technology to the appropriate resources to support their  efforts to implement health IT standards within their systems for certification of Electronic Health Record (EHR) technology, and in general, enable health information interoperability. The Standards I&amp;T Platform aims to provide a central collaboration place for developers and the standards community, and thus enable rapid use of those standards in EHRs. The platform consists of the following four key components: 
+</p>
+<ol>
+  <li><a href="#knowledge_base">A Knowledge Base</a></li>
+  <li><a href="#forum">A Discussion Forum</a></li>
+  <li><a href="#issue_tracker">An Issue Tracker</a></li>
+  <li>A Sandbox (coming soon!)</li>
+</ol>
+Together, these components provide the Health IT community with a centralized set of resources to find answers to their implementation questions.  <a href="http://www.healthit.gov/" target="_new">ONC, the Office of the National Coordinator for Health Information Technology</a>, facilitates and maintains the Standards I&amp;T Platform infrastructure. The content, guidance, and links are contributed and managed by members of the relevant standards organizations (e.g. <a href="http://www.hl7.org/" target="_new">Health Level Seven International (HL7)</a>, <a href="http://www.w3.org/" target="_new">Worldwide Web Consortium (W3C)</a>, <a href="http://www.oasis-open.org/" target="_new">Organization for the Advancement of Structured Information Standards (OASIS)</a>, etc). In the event that the Standards I&T Platform does not contain the necessary level of information or detail a developer needs, they are encouraged to leverage additional support services offered by the relevant standards body.
+<br /><br />
+The initial configuration and workflow for the Standards I&T Platform was developed by the Standards I&T team leveraging a support workflow designed by the <a href="http://www.hl7.org/Special/committees/structure/index.cfm" target="_new">HL7 Structured Documents Workgroup</a>  Consolidated CDA Task Force to facilitate the flow of questions and answers between implementers and Standards Development Organizations (SDOs).  The workflow offers a unified, comprehensive and controlled mechanism to expedite implementer questions through the process of being answered by community subject matter experts, and evaluated and approved by the SDO.  It will be used as a foundation to support similar workflows for other community standards in the future.
+<p></p>
+<a id="knowledge_base"><h1>What can I find in the Knowledge Base?</h1></a>
+<p>The Knowledge Base is a starting point for Health IT software developers to support their efforts to develop and implement systems that use standards in order to comply with meaningful use requirements.  The Knowledge Base includes: 
+</p>
+<ul>
+  <li>Frequently asked questions, authoritative responses, and real life examples.</li>
+  <li>Links to related pages for each standard, vocabulary, meaningful use measure, or test tool. This allows developers to drill down to find more detail about their topic of choice.</li>
+  <li>Lists of external resources such as balloted implementation guides, datasets for testing, or documents stored within the <a href="http://wiki.siframework.org/home" target="_new">S&amp;I Framework wiki</a>.</li>
+</ul>
+<p>The Standards I&amp;T Platform coordinates efforts with a team of experts in the standards community (e.g. <a href="http://www.hl7.org/" target="_new">Health Level Seven International (HL7)</a>, <a href="http://www.w3.org/" target="_new">Worldwide Web Consortium (W3C)</a>) who author, review, and approve content before it is published to the Knowledge Base.
+<br /><br />
+You can access the Knowledge Base <a href="http://ccda.sitplatform.org">here</a>.
+</p>
+
+
+
+
+<a id="forum"><h1>What type of discussions occur on the Forum?</h1></a>
+<p>
+The Forum enables active conversation among community members around topics related to the implementation and testing of various standards.
+</p>
+<ul>
+  <li>Developers can pose questions to the community on the Forum.</li>
+  <li>Moderators monitor the Forum for questions that lack an authoritative answer and submit such questions to the issue tracking system. Developers can also submit a question directly to the issue tracking system. These issues will be reviewed and resolved by the appropriate standards bodies.</li>
+</ul>
+You can access the Forum <a href="http://forum.sitplatform.org">here</a>.
+<p></p>
+
+<a id="issue_tracker"><h1>How are issues tracked?</h1></a>
+<p>
+The Issue Tracker moves questions through the workflow of the relevant standard body to resolution.
+</p>
+<ul>
+  <li>Forum moderators and community members will submit unanswered questions for review. Moderators ensure they reach the appropriate standards body, where subject matter experts (SMEs) will be assigned to resolve the issues.</li>
+  <li>SMEs from the relevant standards bodies will develop authoritative answers.</li>
+  <li>Moderators will post authoritative answers back to the Forum and Knowledge Base, where other members of the standards community with similar questions can easily find them.</li>
+</ul>
+You can access the Issue Tracker <a href="https://cqm-issue-tracker.atlassian.net/login?dest-url=%2Fsecure%2FDashboard.jspa">here</a>.
+</div>
+
+<!-- end .content .int --> </div>
+<!-- end .middle --><!-- begin .footer -->
+<div class="footer">
+<p>&nbsp;</p>
+</div>
+<!-- end .footer --></div>
+<!-- end .container -->
+</body></html>
