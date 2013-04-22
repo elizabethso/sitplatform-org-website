@@ -25,10 +25,7 @@
 <div class="int">
 <h3>Home</h3>
 <br />
-<h3><a href="background.htm" class="red">Background</a></h3><br />
-<h3><a href="knowledge_base.htm" class="red sidepadding15">Knowledge Base</a></h3><br />
-<h3><a href="forum.htm" class="red sidepadding15">Forum</a></h3><br />
-<h3><a href="issue_tracker.htm" class="red sidepadding15">Issue Tracker</a></h3><br />
+<h3><a href="background.shtm" class="red">Background</a></h3><br />
 <h3><a href="mailto:admin@sitplatform.org" class="red">Contact Us</a>
 <br />
 </h3>
