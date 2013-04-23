@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Standards I&amp;T Platform - Home</title>
-<!--#include virtual="header.htm" -->
+<link rel="stylesheet" type="text/css" href="styles/main.css" />
 </head>
 
 <body>
@@ -54,12 +54,16 @@ The initial Standards I&amp;T Platform pilot effort supports the <a href="http:/
 <div class="tableCell2">
 <h6><a href="https://cqm-issue-tracker.atlassian.net/login?dest-url=%2Fbrowse%2FSTDSUP" class="white" target="_new">Issue Tracker</a></h6>
 </div>
+<div class="tableCell2">
+<h6><a href="https://github.com/chb/sample_ccdas" class="white" target="_new">Sample Code Repository</a></h6>
+</div>
 </div>
 <div class="toolSelectionInformation">
 <div class="toolSelectionInformationCell"><h6>&#160;</h6></div>
 <div class="toolSelectionInformationCell sidepadding15"><h3>Search for answers to frequently asked questions</h3></div>
 <div class="toolSelectionInformationCell sidepadding15"><h3>Pose a question to the Health IT community</h3></div>
 <div class="toolSelectionInformationCell sidepadding15"><h3>Submit a question to a subject matter expert</h3></div>
+<div class="toolSelectionInformationCell sidepadding15"><h3>Find and contribute C-CDA Document Samples</h3></div>
 </div>
 </div>
 <div class="toolSelectionSection toppadding15">
