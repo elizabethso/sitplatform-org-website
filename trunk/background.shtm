@@ -39,6 +39,7 @@
   <li><a href="#knowledge_base">A Knowledge Base</a></li>
   <li><a href="#forum">A Discussion Forum</a></li>
   <li><a href="#issue_tracker">An Issue Tracker</a></li>
+  <li><a href="#repository">A Sample Data Repository</a></li>
   <li>A Sandbox (coming soon!)</li>
 </ol>
 Together, these components provide the Health IT community with a centralized set of resources to find answers to their implementation questions.  <a href="http://www.healthit.gov/" target="_new">ONC, the Office of the National Coordinator for Health Information Technology</a>, facilitates and maintains the Standards I&amp;T Platform infrastructure. The content, guidance, and links are contributed and managed by members of the relevant standards organizations (e.g. <a href="http://www.hl7.org/" target="_new">Health Level Seven International (HL7)</a>, <a href="http://www.w3.org/" target="_new">Worldwide Web Consortium (W3C)</a>, <a href="http://www.oasis-open.org/" target="_new">Organization for the Advancement of Structured Information Standards (OASIS)</a>, etc). In the event that the Standards I&T Platform does not contain the necessary level of information or detail a developer needs, they are encouraged to leverage additional support services offered by the relevant standards body.
@@ -57,9 +58,6 @@ The initial configuration and workflow for the Standards I&T Platform was develo
 <br /><br />
 You can access the Knowledge Base <a href="http://ccda.sitplatform.org">here</a>.
 </p>
-
-
-
 
 <a id="forum"><h1>What type of discussions occur on the Forum?</h1></a>
 <p>
@@ -82,6 +80,21 @@ The Issue Tracker moves questions through the workflow of the relevant standard 
   <li>Moderators will post authoritative answers back to the Forum and Knowledge Base, where other members of the standards community with similar questions can easily find them.</li>
 </ul>
 You can access the Issue Tracker <a href="https://cqm-issue-tracker.atlassian.net/login?dest-url=%2Fsecure%2FDashboard.jspa">here</a>.
+<p></p>
+
+<a id="repository"><h1>What can I find in the Sample Data Repository?</h1></a>
+<p>The Sample Data Repository contains a collection of sample C-CDA documents. The goals are to provide:</p>
+<ul>
+<li>Examples for the developer community</li>
+<li>A platform to identify and correct implementation errors</li>
+<li>A public arena to identify areas of ambiguity and variability</li>
+</ul>
+<p>
+Users can also contribute their own sample data. Sample documents should be available under an open license and should not contain PHI. Ideally these documents would represent actual output of real export pipelines.
+<br /><br />
+You can access the Sample Data Repository <a href="https://github.com/chb/sample_ccdas">here</a>.
+</p>
+
 </div>
 
 <!-- end .content .int --> </div>
