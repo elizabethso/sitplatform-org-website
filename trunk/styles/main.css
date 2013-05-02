@@ -1,4 +1,4 @@
-/* ---------- ONC S&I FRAMEWORK MAIN SITE CSS (based on PILOT SITE CSS) ---------- */
+/* ---------- ONC SIT Platform MAIN SITE CSS (based on S&I Framework SITE CSS) ---------- */
 
 
 body {
@@ -297,7 +297,7 @@ div.nav1 ul.nav a:active, div.nav1 ul.nav a.active {
 .banner {
 	background: #497DE3 url(../images/header_bkgd.png) repeat-y left top;
     border-bottom: 1px solid #A9CCEE;
-	height: 65px;
+	height: 75px;
 }
 
 /* ~~ Styling for Logo image inside the .banner ~~ */
