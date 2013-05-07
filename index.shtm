@@ -4,6 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Standards Implementation &amp; Testing Platform - Home</title>
+<link rel="stylesheet" type="text/css" href="/styles/main.css" />
 <!--#include virtual="header.htm" -->
 
 </head>
@@ -15,7 +16,7 @@
 <ul>
 </ul>
 </div>
-<div class="banner"> <a href="http://www.sitplatform.org/index.shtm"><img src="/images/SITP_Logo_Banner_ClearBG.png" alt="Standards Implementation &amp; Testing Platform" id="SITPlatform_logo" height="55" width="800" /></a>
+<div class="banner"> <a href="http://www.sitplatform.org/index.shtm"><img src="/images/SITP_Logo_Banner_ClearBG.png" alt="Standards Implementation &amp; Testing Platform" id="SITPlatform_logo" height="108" width="806" /></a>
 </div>
 </div>
 <!-- end .header -->

@@ -297,7 +297,7 @@ div.nav1 ul.nav a:active, div.nav1 ul.nav a.active {
 .banner {
 	background: #497DE3 url(../images/header_bkgd.png) repeat-y left top;
     border-bottom: 1px solid #A9CCEE;
-	height: 75px;
+	height: 125px;
 }
 
 /* ~~ Styling for Logo image inside the .banner ~~ */
